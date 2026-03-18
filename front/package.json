@@ -1,0 +1,41 @@
+{
+  "name": "obsidian-tcm-theme-clone",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@google/genai": "^1.38.0",
+    "@react-sigma/core": "^5.0.6",
+    "@react-sigma/graph-search": "^5.0.6",
+    "@sigma/edge-curve": "^3.1.0",
+    "@sigma/node-border": "^3.0.0",
+    "@tiptap/extension-placeholder": "^3.18.0",
+    "@tiptap/react": "^3.18.0",
+    "@tiptap/starter-kit": "^3.18.0",
+    "docx-preview": "^0.3.7",
+    "graphology": "^0.26.0",
+    "lucide-react": "^0.563.0",
+    "mammoth": "^1.11.0",
+    "marked": "^17.0.1",
+    "minisearch": "^7.2.0",
+    "pdfjs-dist": "^5.4.624",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-pdf": "^10.3.0",
+    "react-router-dom": "^7.13.0",
+    "seedrandom": "^3.0.5",
+    "sigma": "^3.0.2",
+    "vditor": "^3.11.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}

@@ -1,0 +1,68 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependencies
+node_modules/
+back/node_modules/
+front/node_modules/
+dist
+dist-ssr
+*.local
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+back/.env
+
+# Uploads
+uploads/
+back/uploads/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Build outputs
+back/dist/
+front/dist/
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+*.pem
+*.key
+secrets/
+
+# Cache
+.cache/
+*.cache
+
+# Test coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Session files
+session-id.txt
+
+# Python cache
+__pycache__/
+*.pyc

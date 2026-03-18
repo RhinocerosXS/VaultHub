@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@hufe921/canvas-editor": "^0.9.123",
+    "@tiptap/extension-placeholder": "^3.18.0",
+    "@tiptap/react": "^3.18.0",
+    "@tiptap/starter-kit": "^3.18.0",
+    "express-jwt": "^8.5.1",
+    "path-to-regexp": "^8.3.0"
+  }
+}

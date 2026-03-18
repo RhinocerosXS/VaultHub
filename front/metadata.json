@@ -1,0 +1,5 @@
+{
+  "name": "VaulHub",
+  "description": "A pixel-perfect recreation of the Obsidian interface with a Traditional Chinese Medicine (TCM) aesthetic, featuring a nested file explorer, property editor, and markdown viewer.",
+  "requestFramePermissions": []
+}
